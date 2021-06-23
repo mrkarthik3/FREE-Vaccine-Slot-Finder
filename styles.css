@@ -1,0 +1,167 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Georgia;
+    font-size: 14px;
+}
+#form-container {
+    width: 100%;
+    display: flex;
+
+}
+
+h1 {
+    margin: 10px;
+    text-align: center;
+    // padding: 15px;
+    font-size: 26px;
+}
+
+#form1 {
+    width: 33%;
+    border: 3px solid black;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 5px;
+    overflow: hidden;
+}
+#form2 {
+    width: 33%;
+    border: 3px solid black;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 5px;
+    overflow: hidden;
+
+}
+#form3 {
+    width: 33%;
+    border: 3px solid black;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+input[type="submit"], button {
+    width: 50%;
+    padding: 5px;
+    margin: 10px;
+    border-radius: 5px;
+    font-weight: bold;
+    border: none;
+    color: white;
+    background-color: #333;
+    // border: 1px solid darkslategray    
+}
+
+input[type="submit"]:hover, button:hover {
+    cursor: pointer;
+    background-color: rgb(50, 216, 50);
+
+}
+button:hover {
+    cursor: pointer;
+    background-color: red;
+
+}
+.datacontainer {
+    display: flex;
+}
+
+#centers-1{
+    width: 33%;
+    border: 3px solid black;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 5px;
+    overflow: hidden;
+}
+#centers-2{
+    width: 33%;
+    border: 3px solid black;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 5px;
+    overflow: hidden;
+}
+#centers-3{
+    width: 33%;
+    border: 3px solid black;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+#centers-1 .center {
+    margin: 10px;
+    padding: 15px;
+    border: 3px solid green;
+    border-radius: 5px;
+    overflow: hidden;
+    text-align: center;
+    min-height: 150px;
+    line-height: 1.6;
+
+}
+#centers-2 .center {
+    margin: 10px;
+    padding: 15px;
+    border: 3px solid orange;
+    border-radius: 5px;
+    overflow: hidden;
+    text-align: center;
+    // min-height: 150px;
+    line-height: 1.6;
+
+}
+#centers-3 .center {
+    margin: 10px;
+    padding: 15px;
+    border: 3px solid blue;
+    border-radius: 5px;
+    overflow: hidden;
+    text-align: center;
+    min-height: 150px;
+    line-height: 1.6;
+
+}
+a {
+    display: block;
+    text-decoration: none;
+    color: blue;
+    font-weight: bold;
+    background-color: yellowgreen;
+    text-align: center;
+    padding: 5px;
+    border-radius: 20px;
+}
+
+#last {
+    text-align: center;
+    font-size: 12px;
+}
+
+#buttons {
+    display: flex;
+}
+span#search_status {
+    color: blue;
+    font-weight: bold;
+}
+
+.hidden {
+    display: none;
+}
+
+#info {
+    color: red;
+    text-align: center;
+    font-weight: bold;
+}
+
+h1 + p {
+    text-align: center;
+}
