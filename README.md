@@ -1,5 +1,7 @@
 # FREE Vaccine Slot Finder - India
 
+TAKE A LOOK AT LIVE PREVIEW HERE >> https://mrkarthik3.github.io/FREE-Vaccine-Slot-Finder/ 
+
 1. This tool will continuously search for FREE vaccine slots with a gap of 'x' minutes for 3 Districts of your choice.
 
 2. The search must be stopped manually using "Stop Search" Button.
