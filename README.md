@@ -1,4 +1,4 @@
-# FREE Vaccine Slot Finder - India
+# FREE COVID Vaccine Finder - India
 
 TAKE A LOOK AT LIVE PREVIEW HERE >> https://mrkarthik3.github.io/FREE-Vaccine-Slot-Finder/ 
 
