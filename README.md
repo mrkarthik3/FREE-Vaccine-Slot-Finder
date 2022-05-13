@@ -23,6 +23,6 @@ TAKE A LOOK AT LIVE PREVIEW HERE >> https://mrkarthik3.github.io/FREE-Vaccine-Sl
 
     
 
-### Would appreciate a star :) 
+### Would appreciate a star.
 
 Hope this helps those in need. Hare Krishna.
